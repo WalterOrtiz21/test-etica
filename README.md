@@ -1,4 +1,4 @@
-# Test Ética - API de Gestión de Empleados
+# Test Etica - API de Gestión de Empleados
 
 API REST desarrollada con Spring Boot para la gestión de empleados de una empresa.
 
